@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -34,5 +34,22 @@
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+.contenedor-titulo {
+  color:magenta
+} */
+
+.contenedor-titulo {
+  button {
+    padding-left: 25px;
+  }
+}
+
+#contendor-main {
+  height: 100%;
+  button {
+    padding-left: 40px;
   }
 }
